@@ -1,0 +1,12 @@
+Source: puenktlich
+Section: utils
+Priority: optional
+Maintainer: Sven Wick <sven.wick@gmx.de>
+Build-Depends: debhelper-compat (= 12), crystal
+Standards-Version: 4.6.0
+Homepage: https://github.com/vaporup/puenktlich/
+
+Package: puenktlich
+Architecture: any
+Depends: ${misc:Depends}
+Description: terminal binary clock
