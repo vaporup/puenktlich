@@ -1,44 +1,4 @@
-# Learning Crystal
-
-- simple binary clock
-- /bin/puenktlich
-
-## Install Crystal
-
 ```
-apt install crystal
-```
-
-## Run
-
-```
-crystal puenktlich.cr
-```
-
-## Build
-
-### Quick
-
-```
-crystal build puenktlich.cr
-```
-
-### Release
-
-```
-crystal build --release puenktlich.cr
-```
-
-### Static/Quick
-
-
-```
-crystal build --static puenktlich.cr
-```
-
-### Static/Release
-
-
-```
-crystal build --static --release puenktlich.cr
+Moved  : https://codeberg.org/vaporup/puenktlich
+Reason : https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/
 ```
